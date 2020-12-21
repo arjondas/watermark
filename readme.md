@@ -1,1 +1,1 @@
-# Audio Watermarking with CNNs
+# Audio Watermarking with CNN
